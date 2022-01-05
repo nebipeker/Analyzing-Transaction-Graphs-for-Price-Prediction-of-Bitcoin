@@ -1,6 +1,2 @@
 
-*.gpickle
-*.csv
-.ipynb_checkpoints/BTC.com API Calls-checkpoint.ipynb
-.ipynb_checkpoints/BTC.com API Calls-checkpoint.ipynb
 *.pkl
