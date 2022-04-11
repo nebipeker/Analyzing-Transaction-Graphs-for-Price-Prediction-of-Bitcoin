@@ -3,3 +3,4 @@
 data/daily_metrics_2011_2013.csv
 data/._btc_tx_2011_2013.csv
 data/btc_tx_2011_2013.csv
+*.csv
